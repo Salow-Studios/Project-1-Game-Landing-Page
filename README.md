@@ -13,11 +13,12 @@ Welcome to the repository for the **Mobile Game Landing Page** project! This pro
 
 Check out the live demo [here](https://www.youtube.com/watch?v=EKDFvj9z76Y).
 
+Google Play game [Axolotl Pop ADHD Relief Game](https://play.google.com/store/apps/details?id=com.salowstudios.axolotlpop&hl=en_US)
+
 ## Screenshots
 
-![Screenshot 1](#)
-![Screenshot 2](#)
-![Screenshot 3](#)
+![Desktop View](1_desktop.png)
+![Mobile View](2_mobile.png)
 
 ## Getting Started
 
@@ -29,12 +30,12 @@ To run this project, you need a web browser and a code editor (e.g., VS Code).
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/mobile-game-landing-page.git
+    git clone git@github.com:Salow-Studios/Project-1-Game-Landing-Page.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd mobile-game-landing-page
+    cd Project-1-Game-Landing-Page
     ```
 
 3. Open `index.html` in your web browser to view the landing page.
