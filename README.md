@@ -11,7 +11,9 @@ Welcome to the repository for the **Mobile Game Landing Page** project! This pro
 
 ## Demo
 
-Check out the live demo [here](https://www.youtube.com/watch?v=EKDFvj9z76Y).
+Check out the live demo [here](https://salow-studios.github.io/Project-1-Game-Landing-Page/).
+
+Click to view Source Code on [Youtube](https://www.youtube.com/watch?v=EKDFvj9z76Y)
 
 Google Play game [Axolotl Pop ADHD Relief Game](https://play.google.com/store/apps/details?id=com.salowstudios.axolotlpop&hl=en_US)
 
